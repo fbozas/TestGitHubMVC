@@ -5,7 +5,7 @@ using System.Web;
 
 namespace TestGitHubMVC.Models
 {
-    public class class_1
+    public class class_800
     {
     }
 }
