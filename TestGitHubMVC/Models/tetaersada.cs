@@ -7,6 +7,6 @@ namespace TestGitHubMVC.Models
 {
     public interface tetaersada
     {
-        
+        string WpwpwpwpwpwpwpwTaKagkelia { get; set; }
     }
 }
