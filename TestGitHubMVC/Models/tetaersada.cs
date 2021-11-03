@@ -5,7 +5,8 @@ using System.Web;
 
 namespace TestGitHubMVC.Models
 {
-    public class tetaersada
+    public interface tetaersada
     {
+        
     }
 }
