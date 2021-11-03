@@ -138,6 +138,7 @@
     <Compile Include="Models\lalalalal.cs" />
 >>>>>>> 8064ef133315a7ba3ba826d767615c825da4395a
     <Compile Include="Models\tetaersada.cs" />
+    <Compile Include="Models\Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
