@@ -128,9 +128,15 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+<<<<<<< HEAD
+    <Compile Include="Models\Ergostasio.cs" />
+=======
     <Compile Include="Models\hrthtrhrthrt.cs" />
     <Compile Include="Models\lalalalal.cs" />
-    <Compile Include="Models\Ergostasio.cs" />
+>>>>>>> 8064ef133315a7ba3ba826d767615c825da4395a
+    <Compile Include="Models\tetaersada.cs" />
+    <Compile Include="Models\lalalalal.cs" />
+>>>>>>> 8064ef133315a7ba3ba826d767615c825da4395a
     <Compile Include="Models\tetaersada.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -173,10 +179,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Data\" />
-    <Folder Include="Views\blabla\" />
-    <Folder Include="Views\hrthyrhrt\" />
-    <Folder Include="Views\δασδσ\" />
+    <Folder Include="Models\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
