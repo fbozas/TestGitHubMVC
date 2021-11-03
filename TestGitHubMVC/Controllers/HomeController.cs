@@ -18,7 +18,7 @@ namespace TestGitHubMVC.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Mycontact page.";
+            ViewBag.Message = "Mycodasdadntact page.";
 
             return View();
         }
