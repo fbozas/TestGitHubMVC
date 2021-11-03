@@ -118,14 +118,22 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="App_Start\BundleConfig2.cs" />
     <Compile Include="App_Start\FilterConfig.cs" />
     <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Controllers\blablaController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
+    <Compile Include="Controllers\hrthyrhrtController.cs" />
     <Compile Include="Controllers\δασδσController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="Models\Ergostasio.cs" />
+=======
+    <Compile Include="Models\hrthtrhrthrt.cs" />
+    <Compile Include="Models\lalalalal.cs" />
+>>>>>>> 8064ef133315a7ba3ba826d767615c825da4395a
     <Compile Include="Models\tetaersada.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -168,6 +176,9 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Data\" />
+    <Folder Include="Views\blabla\" />
+    <Folder Include="Views\hrthyrhrt\" />
     <Folder Include="Views\δασδσ\" />
   </ItemGroup>
   <ItemGroup>
