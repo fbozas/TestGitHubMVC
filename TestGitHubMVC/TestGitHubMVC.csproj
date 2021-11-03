@@ -128,12 +128,9 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-<<<<<<< HEAD
-    <Compile Include="Models\Ergostasio.cs" />
-=======
     <Compile Include="Models\hrthtrhrthrt.cs" />
     <Compile Include="Models\lalalalal.cs" />
->>>>>>> 8064ef133315a7ba3ba826d767615c825da4395a
+    <Compile Include="Models\Ergostasio.cs" />
     <Compile Include="Models\tetaersada.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
